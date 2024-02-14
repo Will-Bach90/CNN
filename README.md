@@ -1,7 +1,8 @@
 # Medical Image Classifier
+Full write up can be found here: ![Medical Image Classifer](./MedicalImageClassifer.pdf)  
 ## Initial Setup
-Dataset comes from kaggle here (around 1.25gb in size): https://www.kaggle.com/datasets/pcbreviglieri/pneumonia-xray-images/data  
-Inspired by Hardik Desmukh's tutorial here: https://towardsdatascience.com/medical-x-ray-%EF%B8%8F-image-classification-using-convolutional-neural-network-9a6d33b1c2a  
+Dataset comes from kaggle (around 1.25gb in size): [here](https://www.kaggle.com/datasets/pcbreviglieri/pneumonia-xray-images/data)  
+Inspired by Hardik Desmukh's tutorial: [here](https://www.markdownguide.orghttps://towardsdatascience.com/medical-x-ray-%EF%B8%8F-image-classification-using-convolutional-neural-network-9a6d33b1c2a)  
   
 Steps to use kaggle datasets:
 1. Within your kaggle account, create a new API token. Kaggle.json file will automatically download.  
